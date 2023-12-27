@@ -1,0 +1,6 @@
+Hu and Liu's Opinion Lexicon, also known as Sentiment Lexicon, performs the sentimental analysis and divides about 6800 words into positive and negative categories. 
+This includes linguistic differences based on location, misspelled words, and markup on social media. They then annotate the tweets with their sentiment. A
+bar chart is then created using the emotional score data.  Targets in opinion mining are the entities and traits that constitute the basis for the opinion. 
+There are several grammatical connections between the opinion words and the tasks' objectives. 
+These relations are found using a dependency parser, which is then applied to enlarge the original opinion lexicon for target extraction.
+Additionally, because the relationship between opinion words and targets is propagated, the approach is semi-supervised.
